@@ -5,4 +5,4 @@
 - 개발 언어: `HTML5` `CSS3`
 
 ## Preview
-![online-profile-card](https://user-images.githubusercontent.com/60216512/154936802-b948e557-4580-4967-b026-64306fcf6725.gif)
+![154936802-b948e557-4580-4967-b026-64306fcf6725](https://user-images.githubusercontent.com/60216512/154960249-e983b543-f3bf-420c-9381-d2bff219ea0f.gif)
